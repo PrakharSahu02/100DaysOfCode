@@ -1,0 +1,26 @@
+// https://leetcode.com/problems/number-of-1-bits/
+
+#include <iostream>
+using namespace std;
+
+class Solution {
+public:
+    int hammingWeight(uint32_t n) {
+        int count=0;
+    while(n){
+        n=n&n-1;
+        count++;
+    }
+    return count;  
+    }
+};
+
+int main()
+{
+    int n;
+    cout<<"Enter Binary Number "; 
+    cin>>n;
+    Solution count;
+    cout<<count.hammingWeight(20)<<endl;
+    return 0;
+}
