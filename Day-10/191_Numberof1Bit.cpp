@@ -21,6 +21,6 @@ int main()
     cout<<"Enter Binary Number "; 
     cin>>n;
     Solution count;
-    cout<<count.hammingWeight(20)<<endl;
+    cout<<count.hammingWeight(n)<<endl;
     return 0;
 }
