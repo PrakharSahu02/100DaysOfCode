@@ -1,5 +1,5 @@
 ### Day 12 --> 100
-TWELFTH days of Data Structures and Algorithms
+TWELEVTH days of Data Structures and Algorithms
 Do's
 
 -> Solve 5 Easy Que on LeetCode.
