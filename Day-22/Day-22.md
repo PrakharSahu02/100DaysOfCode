@@ -1,4 +1,4 @@
-### Day 21 --> 100
+### Day 22 --> 100
 TWENTY-TWO days of Data Structures and Algorithms
 Do's
 
