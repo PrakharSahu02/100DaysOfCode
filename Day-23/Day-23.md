@@ -12,3 +12,5 @@ Do's
 -> Vector in STL.
 
 -> List in STL.
+
+-> Solve 2 Que on LeetCode.
