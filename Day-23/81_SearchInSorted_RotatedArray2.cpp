@@ -80,6 +80,6 @@ int main()
     cin >> n;
     vector<int> v1 = {5, 7, 8, 0, 1, 2, 3, 4};
     Solution srch;
-    cout << srch.search(v1, n)<<end;
+    cout << srch.search(v1, n)<<endl;
     return 0;
 }
