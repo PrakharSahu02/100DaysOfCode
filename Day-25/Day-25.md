@@ -7,3 +7,5 @@ Do's
 -> Writing/Reading File using Constructor.
 
 -> Writing/Reading File using Member Function.
+
+-> Solved 2 Question on Leetcode.
