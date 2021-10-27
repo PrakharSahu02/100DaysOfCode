@@ -1,5 +1,5 @@
 ### Day 27 --> 100
-TWENTY-SEVEn days of Data Structures and Algorithms
+TWENTY-SEVEN days of Data Structures and Algorithms
 
 Do's
 
@@ -8,3 +8,5 @@ Do's
 -> RatinMaze.
 
 -> Backtracking Concept.
+
+-> Solved 3 Questions on Leetcode.
