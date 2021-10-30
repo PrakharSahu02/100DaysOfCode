@@ -8,3 +8,5 @@ Do's
 -> Build Balance Binary Search Tree from Sorted Array.
 
 -> Build Binary Search Tree from Preorder.
+
+-> Solve 3 Question on LeetCode.
