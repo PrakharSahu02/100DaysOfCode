@@ -10,3 +10,5 @@ Do's
 -> Possible Number of Binary Search Tree Formed.
 
 -> ZigZag Traversal in Binary Search Tree.
+
+-> Solve 2 Question on LeetCode.
