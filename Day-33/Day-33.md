@@ -4,9 +4,15 @@ THIRTY-THREE days of Data Structures and Algorithms
 Do's
 
 -> Started Set.
+
       - Ordered Set
-      - In-Ordered Set      
+      
+      - In-Ordered Set    
+      
       - Ordered MultiSet
+      
       - In-Ordered MultiSet
             
 -> Binary Search Problems.
+
+-> Solve 4 Questions on LeetCode.
