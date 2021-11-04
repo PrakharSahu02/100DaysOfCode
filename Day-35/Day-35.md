@@ -13,4 +13,4 @@ Do's
 
 -> Sliding Window Technique.
 
--> Solve 4 Questions on LeetCode.
+-> Solve 3 Questions on LeetCode.
