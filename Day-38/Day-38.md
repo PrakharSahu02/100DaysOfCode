@@ -9,4 +9,4 @@ Do's
 
    - Max and Min Difference in an Array
 
--> Solve  Questions on LeetCode.
+-> Solve 2 Questions on LeetCode.
