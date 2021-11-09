@@ -11,4 +11,6 @@ Do's
    
    - Undirected Graph
 
--> Find No. of Component in Graph
+-> Find No. of Component in Graph.
+
+->Solve 3 Questions on LeetCode.
