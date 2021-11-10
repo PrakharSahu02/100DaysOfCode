@@ -9,4 +9,4 @@ Do's
 
 -> Cycle Detection in Undirected Graph using Disjoint Set Union
 
--> Solve 3 Questions on LeetCode.
+-> Solve 2 Questions on LeetCode.
