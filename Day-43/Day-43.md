@@ -10,3 +10,5 @@ Do's
 -> Fibonacci Sequence
 
 -> Minimum Square               
+
+-> Solved 1 Question on Leetcode
