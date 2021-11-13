@@ -11,4 +11,4 @@ Do's
 
 -> Knapsack              
 
--> Solved 1 Question on Leetcode
+-> Solved 3 Questions on Leetcode
