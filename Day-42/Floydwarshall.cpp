@@ -8,9 +8,6 @@ const int inf = 1e9;
 
 int main()
 {
-    int n, m;
-    cin >> n >> m;
-
     vector<vector<int>> graph = {
         {0, 5, inf, 10},
         {inf, 0, 3, inf},
