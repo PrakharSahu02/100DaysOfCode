@@ -10,3 +10,5 @@ Do's
 -> Kadane Algorithm
 
 -> Knapsack
+
+-> Solve 1 Question on LeetCode
