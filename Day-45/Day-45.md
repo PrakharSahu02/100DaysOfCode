@@ -8,5 +8,3 @@ Do's
 -> Optimal game Strategy
 
 -> Minimum number of step to reach End
-
--> Solved 3 Questions on Leetcode
